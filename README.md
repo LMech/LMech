@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @LMech
-- 👀 I’m interested in python and web development
-- 🌱 I’m currently learning python
-- 📫 lmech.ge@gmail.com
+## Hey, I'm Michael
 
-<!---
-LMech/LMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/lmech/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=lmech.lmech)
+
+<br />
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lmech&show_icons=true&theme=gotham" alt="lmech" />
